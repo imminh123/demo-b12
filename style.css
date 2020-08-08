@@ -1,0 +1,12 @@
+#content {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.character {
+  width: 20%;
+}
+
+.character img {
+  width: 100%;
+}
